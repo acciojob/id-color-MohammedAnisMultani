@@ -1,13 +1,13 @@
 #yellow{
     border-style: solid;
-    border-width: 1px solid;
+    border-width: 1px;
     background-color: yellow; 
     border-color: green;
     
 }
 #red{
     border-style: solid;
-    border-width: 1px solid;
+    border-width: 1px;
     background-color: red;
      border-color: black;
     
